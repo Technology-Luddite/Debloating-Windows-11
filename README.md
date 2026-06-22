@@ -6,6 +6,11 @@ To reclaim your digital sovereignty, you can use the **Windows 11 Privacy & Hard
 
 ---
 
+> [!WARNING]
+> **Danger, Danger - Will Robinson!!!** > Changing your Windows OS setting may cause issues that I have not seen in my testing while writing this. This is a **Buyer Beware** use at your own risk, we are all adults and I cannot hold your hand and pour you a cup of tea for your tears!
+
+---
+
 ## 🚀 Deployment & The Quick-Start Guard
 
 Because Windows enforces strict security protections around PowerShell scripts by default, executing raw scripts directly can result in an `UnauthorizedAccess` error due to execution policies.
